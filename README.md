@@ -1,3 +1,4 @@
+![logo](https://github.com/Beellal/Beellal/blob/main/Banner%20Github.gif)
 <h1 align="center">Hi 👋, I'm Beellal</h1>
 <h3 align="center">MERN Developer , ALX Student</h3>
 
