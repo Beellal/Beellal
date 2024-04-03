@@ -15,8 +15,12 @@
 - 📝 I regularly write articles on LinkedIn [www.linkedin.com/in/beellal](www.linkedin.com/in/beellal)
 
 - 📄 Know about my experiences [https://mbilal.onrender.com/](https://mbilal.onrender.com/)
+- 
 
-
+<div>
+  <h1>GitHub Streak</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beellal&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
