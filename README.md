@@ -18,21 +18,18 @@
 
 <div style="display:flex; justify-content:space-between;">
 
-  <div>
-    <h1>📊 GitHub Stats:</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </div>
 
   <div>
     <h1>Top Languages</h1>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beellal&theme=tokyonight&hide_border=false" alt="GitHub Streak">
   </div>
 
 </div>
 
 <div>
   <h1>GitHub Streak</h1>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beellal&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+ 
 </div>
 
 <div>
