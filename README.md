@@ -16,16 +16,29 @@
 
 - 📄 Know about my experiences [https://mbilal.onrender.com/](https://mbilal.onrender.com/)
 
-- # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<div style="display:flex; justify-content:space-between;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <div>
+    <h1>📊 GitHub Stats:</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Beellal&theme=tokyonight&hide_border=false)
+  <div>
+    <h1>Top Languages</h1>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  </div>
 
----
-[![Visit Count](https://visitcount.itsvg.in/api?id=Beellal&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div>
+  <h1>GitHub Streak</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beellal&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+</div>
+
+<div>
+  <h1>Visit Count</h1>
+  <a href="https://visitcount.itsvg.in/api?id=Beellal&icon=0&color=0"><img src="https://visitcount.itsvg.in/api?id=Beellal&icon=0&color=0" alt="Visit Count"></a>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
