@@ -16,6 +16,18 @@
 
 - 📄 Know about my experiences [https://mbilal.onrender.com/](https://mbilal.onrender.com/)
 
+- # 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beellal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VotreNomDUtilisateurGitHub&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomDUtilisateurGitHub&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![Visit Count](https://visitcount.itsvg.in/api?id=VotreNomDUtilisateurGitHub&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/beellal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="beellal" height="30" width="40" /></a>
